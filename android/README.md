@@ -3,7 +3,7 @@
 - [Manifest](https://vigorous-cartoon-8db.notion.site/Manifest-05c9465d1319491986dcb508c6a06fc8)
 - [Android Components](https://vigorous-cartoon-8db.notion.site/Component-b137b23f7e424246972484b560f6e60d)
 - Intent
-- Fragment
+- [Fragment](https://vigorous-cartoon-8db.notion.site/Fragment-445795de12b041eb8f5b756016be4113)
 - View
 - Jetpack Compose
 - [Drawable](https://vigorous-cartoon-8db.notion.site/Drawable-6c11b1a00b8c4c81b2eac37fa2e89121)
