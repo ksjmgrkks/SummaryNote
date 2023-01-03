@@ -13,3 +13,4 @@
 - [Android KeyStore](https://vigorous-cartoon-8db.notion.site/Android-KeyStore-97a50b919eaf4d99b98ff37263b28b45)
 - [APK, AAB](https://vigorous-cartoon-8db.notion.site/APK-AAB-195fada3516a4078804487c4fb337815)
 - [WEB in App](https://vigorous-cartoon-8db.notion.site/WEB-in-App-f8521a706f054570a984c1cf9420ed78)
+- [Design Pattern](https://vigorous-cartoon-8db.notion.site/Design-Pattern-993a51a571a4424f886345c1e209a974)
