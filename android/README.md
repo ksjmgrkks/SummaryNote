@@ -5,8 +5,8 @@
 - [WorkManager](https://vigorous-cartoon-8db.notion.site/WorkManager-090d5e704d484db590abccf3510823b1)
 - [Intent](https://vigorous-cartoon-8db.notion.site/Intent-fc8ef4fe5fef483388e9c3a4d0e80fc0)
 - [Fragment](https://vigorous-cartoon-8db.notion.site/Fragment-445795de12b041eb8f5b756016be4113)
-- View
-- Jetpack Compose
+- [View](https://vigorous-cartoon-8db.notion.site/View-aaa7e33de7a6420b86f3efdc7bb4326b)
+- [Jetpack Compose](https://vigorous-cartoon-8db.notion.site/Jetpack-Compose-d49eec6adc2f4110b890fd49421e11bb)
 - [Drawable](https://vigorous-cartoon-8db.notion.site/Drawable-6c11b1a00b8c4c81b2eac37fa2e89121)
 - [Widget](https://vigorous-cartoon-8db.notion.site/Widget-b6102c60acad43218cd5b3a96bb26a71)
 - [Dependency Injection](https://vigorous-cartoon-8db.notion.site/DI-9896fc04076d463397f26b67440b2658)
