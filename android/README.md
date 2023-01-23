@@ -17,4 +17,4 @@
 - [Design Pattern](https://vigorous-cartoon-8db.notion.site/Design-Pattern-993a51a571a4424f886345c1e209a974)
 - [Handler](https://vigorous-cartoon-8db.notion.site/Handler-97c0ce47db034cd48e3dfd05221659ba)
 - [Coroutine & Flow](https://vigorous-cartoon-8db.notion.site/flow-523b2fc1a71c464dab8309463accd6e4)
-- Rx
+- [Rx](https://reactivex.io/)
