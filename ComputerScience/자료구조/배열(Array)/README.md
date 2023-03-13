@@ -34,7 +34,7 @@ fruits[1] = "kiwi"</code></pre>
 }
 
 for (index in numbers.indices) {
-		// 배열의 인덱스에 대한 처리
+    // 배열의 인덱스에 대한 처리
 }</code></pre>
 
 #### [배열의 정렬]
