@@ -6,3 +6,8 @@
 ### 자료구조와 알고리즘이 중요한 이유
 ##### → 어떤 자료구조와 알고리즘을 쓰느냐에 따라, 성능이 천지차다!
 ##### 결국, 프로그래밍을 잘 할 수 있는 기술과 역량을 익히고, 검증할 수 있음.
+
+#### *알고리즘 정리 노션 페이지* 
+<a href="https://vigorous-cartoon-8db.notion.site/1a3465ce29254dbea78b05ede1eb4ee0">
+  <img src="https://img.shields.io/badge/notion page-green?style=for-the-badge&logo=notion&logoColor=white">
+</a>
